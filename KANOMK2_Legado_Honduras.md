@@ -64,7 +64,7 @@ Nota: En caso que los enlaces no te funcionen buscalos por [google](https://www.
  
 Uno de los duelos más emblemáticos en la escena online fue el choque entre **KANOMK2** y **Kung Leo**, dos estilos enfrentados en una batalla que dejó huella.
 > *“Dos tipos, dos estilos... pero al final, la técnica presión agresiva gana.”
-Este enfrentamiento ha sido citado en debates técnicos entre ellos polemicos preguntando quien es el ** el verdadero Rey**. y forma parte del archivo histórico que documenta cómo Honduras tiene jugadores de alto nivel en *Mortal Kombat II*. 
+Este enfrentamiento ha sido citado en debates técnicos entre ellos polemicos preguntando quien es el verdadero Rey. y forma parte del archivo histórico que documenta cómo Honduras tiene jugadores de alto nivel en *Mortal Kombat II*. 
 ---
 
 ## 🧪Movimientos en Versiones arcade y Online verificadas
