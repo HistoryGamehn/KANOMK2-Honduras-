@@ -62,24 +62,9 @@ Nota: En caso que los enlaces no te funcionen buscalos por [google](https://www.
  ## ⚔️ Enfrentamiento destacado: KANOMK2 vs Kung Leo  
 - 🗣️ [Replay oficial – KANOMK2 vs Kung Leo](https://archive.org/details/1641344210986-7966)  
  
-Uno de los duelos más emblemáticos en la escena online fue el choque entre **KANOMK2** y **Kung Leo**, dos estilos enfrentados en una batalla que dejó huella. Mientras Kung Leo apostaba por spam y lectura reactiva, KANOMK2 respondió con presión agresiva, dominio técnico y una ejecución que rozaba lo imposible.
-
-> Resultado: victoria para KANOMK2  
-> *“Dos tipos, dos estilos... pero al final, la técnica presión agresiva gana.”*
-
-Este combate no solo confirmó la superioridad táctica de KANOMK2, sino que **demostró por qué es considerado una leyenda**. Su lectura de frames y su capacidad para adaptarse en tiempo real lo colocan en una categoría aparte.  
-Fue más que una victoria: fue un **Llego el verdadero Rey**.
-
-Este enfrentamiento ha sido citado en debates técnicos y forma parte del archivo histórico que documenta cómo Honduras tiene jugadores de alto nivel en *Mortal Kombat II*.
-
----
-
-## 🧠 Legado y documentación
-
-El legado de KANOMK2 ha sido preservado por [@HistoryGameHn](https://github.com/HistoryGameHn), quien ha recopilado testimonios, archivos técnicos y referencias visuales como parte de un esfuerzo por documentar la historia gamer hondureña.
-
-Este repositorio forma parte de un archivo digital que busca reconocer figuras clave en la evolución de los videojuegos en Centroamérica y Sudamérica.
-
+Uno de los duelos más emblemáticos en la escena online fue el choque entre **KANOMK2** y **Kung Leo**, dos estilos enfrentados en una batalla que dejó huella.
+> *“Dos tipos, dos estilos... pero al final, la técnica presión agresiva gana.”
+Este enfrentamiento ha sido citado en debates técnicos entre ellos polemicos preguntando quien es el ** el verdadero Rey**. y forma parte del archivo histórico que documenta cómo Honduras tiene jugadores de alto nivel en *Mortal Kombat II*. 
 ---
 
 ## 🧪Movimientos en Versiones arcade y Online verificadas
@@ -101,20 +86,27 @@ Este repositorio forma parte de un archivo digital que busca reconocer figuras c
 
 ---
 
-## 🧩 Contribuciones
+## 🔥 Honduras: Datos
 
-Este archivo está abierto a investigadores, jugadores y archivistas que deseen aportar documentación adicional. Se aceptan pull requests, testimonios y análisis técnicos que refuercen la narrativa histórica.
+KANOMK2 el jugador que redefinió estrategias, que rompió límites técnicos, y es el unico que puso a Honduras en el mapa mundial de *Mortal Kombat II*.  
+Su legado no termina en los torneos: **vive en cada ejecución perfeccionada, en cada glitch y bug documentado, en cada testimonio que lo reconoce como el referente máximo**.
+
+**Aquí no se exagera. Se documenta. Se honra. Se inmortaliza.**
+
+
 
 ---
 
 ## 🌍 Reconocimiento global y narrativa colectiva
 
-Este archivo no busca imponer títulos, sino recopilar y narrar una historia que ha sido validada por jugadores, archivistas y testigos de múltiples regiones. Las técnicas documentadas, los torneos ganados y las referencias cruzadas en plataformas internacionales no son simples anécdotas: son evidencia de una trayectoria que transformó el juego.
+Este archivo no busca imponer títulos ganados, sino recopilar y narrar una historia que ha sido validada por jugadores, archivistas y testigos de múltiples regiones. Las técnicas documentadas, los torneos ganados y las referencias cruzadas en plataformas internacionales no son simples anécdotas: son evidencia de una trayectoria que transformó el juego.
 
 Desde Tegucigalpa hasta foros europeos, pasando por torneos en Brasil, Argentina y Estados Unidos, el nombre **KANOMK2** aparece como sinónimo de precisión, innovación y dominio técnico. Las voces que lo mencionan —ya sean locales o extranjeras— coinciden en algo: este jugador no solo compitió, **cambió la forma de jugar Mortal Kombat II**.
 
 ---
+## 🧠 Legado y documentación
 
-## 🔥 Honduras: nace la leyenda viviente
+El legado de KANOMK2 ha sido preservado por [@HistoryGameHn](https://github.com/HistoryGameHn), quien ha recopilado testimonios, archivos técnicos y referencias visuales como parte de un esfuerzo por documentar la historia gamer hondureña.
 
-KANOMK2 no es solo un nombre en la historia del gaming hondureño.
+Este repositorio forma parte de un archivo digital que busca reconocer figuras clave en la evolución de los videojuegos en Centroamérica y Sudamérica.
+Queda abierto a investigadores, jugadores y archivistas que deseen aportar documentación adicional. Se aceptan pull requests, testimonios y análisis técnicos que refuercen la narrativa histórica.
