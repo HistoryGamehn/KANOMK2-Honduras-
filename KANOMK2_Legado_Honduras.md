@@ -58,9 +58,10 @@ Nota: En caso que los enlaces no te funcionen buscalos por [google](https://www.
 
 - 🗣️ [Replay btbb99 campeon video reaccion (USA)](https://www.youtube.com/watch?v=BXTbrBFh6io&t=4s)  
   Reconocimiento del Campeon de Estados Unidos a Kanomk2 considerandolo el mejor de Mortal Kombat II  
-- 🗣️ [Replay oficial – KANOMK2 vs Kung Leo (CL)](https://archive.org/details/1641344210986-7966)  
-  ## ⚔️ Enfrentamiento destacado: KANOMK2 vs Kung Leo  
 
+ ## ⚔️ Enfrentamiento destacado: KANOMK2 vs Kung Leo  
+- 🗣️ [Replay oficial – KANOMK2 vs Kung Leo](https://archive.org/details/1641344210986-7966)  
+ 
 Uno de los duelos más emblemáticos en la escena online fue el choque entre **KANOMK2** y **Kung Leo**, dos estilos enfrentados en una batalla que dejó huella. Mientras Kung Leo apostaba por spam y lectura reactiva, KANOMK2 respondió con presión agresiva, dominio técnico y una ejecución que rozaba lo imposible.
 
 > Resultado: victoria para KANOMK2  
