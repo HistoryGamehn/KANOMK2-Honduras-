@@ -1,5 +1,3 @@
-# KANOMK2
-
 **KANOMK2** fue un competidor técnico y figura histórica en la evolución de *Mortal Kombat II* en Honduras. Activo desde 1995 en la escena arcade de Tegucigalpa, se consolidó como referente técnico en Mortal Kombat II. Reconocido por sus descubrimientos en mecánicas avanzadas, su legado ha sido documentado por archivistas digitales como parte del patrimonio gamer regional.
 
 ---
@@ -20,7 +18,7 @@ Estas técnicas fueron confirmadas en torneos locales y redefinieron la ejecuci�
 
 ## 🏆 Impacto competitivo
 
-Las contribuciones de KANOMK2 redefinieron el estilo de juego en Tegucigalpa durante la segunda mitad de los años 90 y principios de los 2000. Su enfoque técnico obligó a otros competidores a adaptar sus estrategias, elevando el nivel de análisis y ejecución en la comunidad arcade.
+Las contribuciones de KANOMK2 redefinieron el estilo de juego en Tegucigalpa durante la segunda mitad de los años 95 y principios de los 2000. Su enfoque técnico obligó a otros competidores a adaptar sus estrategias, elevando el nivel de análisis y ejecución en la comunidad arcade.
 
 Fue el máximo ganador de torneos en arcade de *Mortal Kombat II*, con un total de **8 victorias** en diferentes plazas, entre ellas:  
 **Isla de la Fantasía**, **EYKO**, **CentroCity**, y **Plaza Los Castaños**.
@@ -35,19 +33,43 @@ KANOMK2 participó en múltiples torneos online entre 2008 y 2012, consolidando 
 Evento con participación de jugadores brasileños de alto nivel. KANOMK2 fue reconocido por su precisión técnica.
 
 ### 🌎 Torneo Latinoamericano (2009)  
-Primera edición regional con participación de Honduras, México, Argentina y Brasil. KANOMK2 y Marvirrasta representaron a Honduras con técnicas inéditas que influenciaron el metajuego regional.
+Competencia en línea organizada por [Imko](https://imko.superforo.net), con participación de Honduras, México, Argentina y Brasil. KANOMK2 y Marvirrasta representaron a Honduras con técnicas inéditas que influenciaron el metajuego regional.
 
 ### 🇦🇷 Argentina – Doble torneo latinoamericano (2010)  
 Dos eventos consecutivos donde se validaron las técnicas hondureñas en juegos arcade emulados por MAME32k. Se documentaron ejecuciones perfectas, incluyendo los mid-height fans de Kitana ya perfeccionados.
 
-### 🇺🇸 USA – Torneo USADAW (2010)  
-Competencia en línea organizada por [usadaw.com](https://usadaw.com), donde KANOMK2 fue invitado como referente técnico y máximo representante de Latinoamérica. Se realizaron pruebas cruzadas entre versiones emuladas.
+### 🇺🇸 USA – Torneo USADAWMK (2010)  
+Competencia en línea organizada por [usadawmk.com](https://usadawmk.com), donde KANOMK2 fue invitado como referente técnico y máximo representante de Latinoamérica. Se realizaron pruebas cruzadas entre versiones emuladas.
 
 ### 🇪🇺 Europa – Torneo NativeMK (2011)  
 Evento europeo registrado en [foronativemk.org](http://foronativemk.org), con participación de jugadores de España, Francia, Italia, Holanda, Rusia y Grecia. Las técnicas hondureñas fueron replicadas y documentadas por archivistas europeos.
 
 ### 🌐 Archivo digital – kanomk2.orgfree.com (2011–2012)  
-Repositorio técnico y documental alojado en [kanomk2.orgfree.com](https://kanomk2.orgfree.com). Incluye referencias visuales, testimonios y análisis de torneos online bien ganados.
+Repositorio técnico y documental alojado en [kanomk2.orgfree.com](https://kanomk2.orgfree.com). Incluye referencias visuales, testimonios y análisis de torneos online bien ganados.  
+Nota: En caso que los enlaces no te funcionen buscalos por [google](https://www.google.com/search?q=kanomk2.orgfree)
+
+## 🌐 Reconocimientos internacionales
+
+- 🗣️ [Replay oficial – KANOMK2 vs Kensidj (USA)](https://archive.org/details/1641344210986-7966)  
+  Enfrentamiento amistoso entre el jugador hondureño y el estadounidense. Validación directa del estilo y ejecución de KANOMK2.
+
+- 🇧🇷 [Homenaje Brasil 2009 – Comunidad Orkut](https://www.youtube.com/watch?v=iWv8BKHko04&t=20s)  
+  Reconocimiento público por parte de la comunidad brasileña, quienes organizaron un torneo en honor a KANOMK2 por su impacto técnico en Mortal Kombat II.
+
+- 🗣️ [Replay btbb99 campeon video reaccion (USA)](https://www.youtube.com/watch?v=BXTbrBFh6io&t=4s)  
+  Reconocimiento del Campeon de Estados Unidos a Kanomk2 considerandolo el mejor de Mortal Kombat II  
+- 🗣️ [Replay oficial – KANOMK2 vs Kung Leo (CL)](https://archive.org/details/1641344210986-7966)  
+  ## ⚔️ Enfrentamiento destacado: KANOMK2 vs Kung Leo  
+
+Uno de los duelos más emblemáticos en la escena online fue el choque entre **KANOMK2** y **Kung Leo**, dos estilos enfrentados en una batalla que dejó huella. Mientras Kung Leo apostaba por spam y lectura reactiva, KANOMK2 respondió con presión agresiva, dominio técnico y una ejecución que rozaba lo imposible.
+
+> Resultado: victoria para KANOMK2  
+> *“Dos tipos, dos estilos... pero al final, la técnica presión agresiva gana.”*
+
+Este combate no solo confirmó la superioridad táctica de KANOMK2, sino que **demostró por qué es considerado una leyenda**. Su lectura de frames y su capacidad para adaptarse en tiempo real lo colocan en una categoría aparte.  
+Fue más que una victoria: fue un **Llego el verdadero Rey**.
+
+Este enfrentamiento ha sido citado en debates técnicos y forma parte del archivo histórico que documenta cómo Honduras tiene jugadores de alto nivel en *Mortal Kombat II*.
 
 ---
 
@@ -59,11 +81,12 @@ Este repositorio forma parte de un archivo digital que busca reconocer figuras c
 
 ---
 
-## 🧪 Versiones arcade verificadas
+## 🧪Movimientos en Versiones arcade y Online verificadas
 
-| Versión Arcade | Descubrimiento confirmado         | Notas                    |
-|----------------|-----------------------------------|--------------------------|
+| Versión Arcade | Descubrimiento confirmado         | Notas                     |
+|----------------|-----------------------------------|---------------------------|
 | MKII Rev 3.1   | Mid-height fireball de Liu Kang   | Confirmado en Tegucigalpa |
+| MKII Rev 3.1   | Multi-ground-pound de Jax         | Confirmado online         |
 
 ---
 
@@ -93,7 +116,4 @@ Desde Tegucigalpa hasta foros europeos, pasando por torneos en Brasil, Argentina
 
 ## 🔥 Honduras: nace la leyenda viviente
 
-KANOMK2 no es solo un nombre en la historia del gaming hondureño. Es **la leyenda viviente de Honduras**, el jugador que redefinió estrategias, que rompió límites técnicos, y que puso a Honduras en el mapa mundial de *Mortal Kombat II*.  
-Su legado no termina en los torneos: **vive en cada ejecución perfeccionada, en cada glitch documentado, en cada testimonio que lo reconoce como el referente máximo**.
-
-**Aquí no se exagera. Se documenta. Se honra. Se inmortaliza.**
+KANOMK2 no es solo un nombre en la historia del gaming hondureño.
